@@ -1,2 +1,3 @@
-# my-maven-project
-test maven poj
+git add .
+git commit -m "Testing Jenkins webhook"
+git push
